@@ -1,4 +1,3 @@
-from contextlib import nullcontext
 import pyperclip
 import logging
 import time
